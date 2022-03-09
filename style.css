@@ -1,0 +1,10 @@
+#play,#stop{
+	display:inline-block;
+    background-color: orange;
+	padding:16px;
+	border:1px solid #000;
+	border-radius
+	:5px;
+    cursor: pointer;
+}
+iframe{display:none;}
